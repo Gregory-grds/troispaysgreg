@@ -1,0 +1,83 @@
+.title_1 {
+    color: darkred;
+    font-size: 70px;
+    text-align: center;
+}
+
+#effeilimc {
+    width:100%;
+}
+
+#romeimc {
+    height: 400px;
+    float: right;
+    padding: 10px;
+}
+
+#australieimc {
+    height: 400px;
+    float: left;
+    padding: 10px;
+}
+
+#japonimc {
+    height: 400px;
+    float: right;
+    padding: 10px;
+}
+
+.Homepage li {
+    background-color: darkred;
+    display: inline;
+    font-size: 40px;
+    padding: 15px 50px;
+    list-style-type: none;
+    margin: 10px;
+    text-align: center;
+
+}
+
+ul {
+    text-align: center;
+    
+}
+
+#Rome {
+    background-color: darkred;
+    font-size: 60px;
+    width: 300px;
+    color: white;
+    padding: 15px 100px;
+    text-align: left;
+}
+
+.texte {
+    font-size: 30px;
+}
+#Australie {
+    background-color: darkred;
+    font-size: 60px;
+    width: 300px;
+    color: white;
+    padding: 15px 100px;
+    text-align: left;
+}
+#Japon {
+    background-color: darkred;
+    font-size: 60px;
+    width: 300px;
+    color: white;
+    padding: 15px 100px;
+    text-align: left;
+}
+
+#div {
+    background-color: cadetblue;
+    border: solid 5px black;
+}
+
+#div2 {
+
+background-color: darkslategrey;
+border: solid 5px black
+}
